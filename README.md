@@ -55,7 +55,3 @@ Backend‑focused engineer building **scalable APIs, cloud infrastructure, real�
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Alvannwanorim&count_private=true&theme=blue-green&show_icons=true" />
-
